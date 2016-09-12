@@ -1,5 +1,5 @@
 {
-  "id": "/discovery",
+  "id": "/movieapps/discover-service/discovery",
   "cmd": null,
   "cpus": 0.2,
   "mem": 1000,
