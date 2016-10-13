@@ -1,5 +1,5 @@
 [{
-  "id": "/movieapps/discover-service/discovery",
+  "id": "/movies-sit/spring-service/discovery",
   "cmd": null,
   "cpus": 0.2,
   "mem": 1000,
@@ -20,10 +20,6 @@
       ],
       "privileged": false,
       "parameters": [
-        {
-          "key": "hostname",
-          "value": "discovery"
-        },
         {
           "key": "net",
           "value": "microservice"
